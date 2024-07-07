@@ -1,0 +1,65 @@
+h1{
+    text-align: center;
+}
+#Bubușorul{
+    color: blue;
+}
+
+#„Caracatița”{
+    color: rgb(41, 100, 41);
+}
+
+div.paragraf {
+    color: black;
+    width: 60%;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+div#img_prima {
+    width: 50%;
+    height: 100%;
+    position: absolute;
+    top: 140px;
+    left: 70%
+}
+
+div#img_prima img{
+    width: 30%;
+    height: 30%;
+    border: 10px solid cadetblue;
+}
+
+.poveste{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+div#img_doi {
+    width: 50%;
+    height: 100%;
+    position: absolute;
+    top: 400px;
+    left: 70%
+}
+
+div#img_doi img{
+    width: 30%;
+    height: 30%;
+    border: 10px solid cadetblue;
+}
+
+div#img_trei {
+    width: 50%;
+    height: 100%;
+    position: absolute;
+    top: 660px;
+    left: 70%
+}
+
+div#img_trei img{
+    width: 30%;
+    height: 30%;
+    border: 10px solid cadetblue;
+}
